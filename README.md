@@ -5,3 +5,5 @@ https://mybinder.org/
 
 Then, put in the repository link:
 https://github.com/CrestwoodPrep/ICS4U-Unit-6
+
+Or download them and upload to your own JupyterLab!
